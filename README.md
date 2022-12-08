@@ -4,7 +4,7 @@
 ![graph.png](./graph.png)
 
 
-It took me several months to find my scientific genealogy. You should know that this hierarchy does not really exist before the end of the 19th century. 
+It took me several months to find my scientific genealogy. 
 Here are some useful resources to find your scientific genealogy:
 - https://academictree.org/
 - https://mathgenealogy.org/ (90% of my tree comes from this site)
