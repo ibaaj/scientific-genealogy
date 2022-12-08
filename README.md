@@ -1,7 +1,7 @@
 # Scientific Geneaology 
 
 
-![graph.jpg](./graph.jpg)
+![graph.png](./graph.png)
 
 
 It took me several months to find my scientific genealogy. You should know that this hierarchy does not really exist before the end of the 19th century. 
