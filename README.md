@@ -14,7 +14,7 @@ Here are some useful resources to find your scientific genealogy:
 - Bibliothèque National de France (BNF): I had to contact the BNF to get a scan of the first pages of a thesis
 - Borrowing dissertations from university libraries
 - HAL open archives 
-
+- Henrion, Didier. "Sur ma généalogie scientifique française." (2010). [https://homepages.laas.fr/henrion/papers/genealogie-henrion.pdf](https://homepages.laas.fr/henrion/papers/genealogie-henrion.pdf)
 
 
 
